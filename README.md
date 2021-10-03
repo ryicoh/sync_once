@@ -8,7 +8,7 @@ The package inspired by [sync.Once](https://pkg.go.dev/sync#Once) in Go Language
 
 A simple usage example:
 
-```
+```dart
 import 'package:sync_once/sync_once.dart';
 
 void main() async {
