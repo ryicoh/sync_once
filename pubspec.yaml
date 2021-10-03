@@ -1,6 +1,7 @@
 name: sync_once
-description: A simple command-line application.
-version: 1.0.0
+description: The function will be called only once.
+
+version: 1.0.2
 repository: https://github.com/ryicoh/sync_once
 
 environment:
@@ -9,6 +10,7 @@ environment:
 
 dev_dependencies:
   lints: ^1.0.0
+  test: ^1.18.2
+
 dependencies: 
   synchronized: ^3.0.0
-  test: ^1.18.2
